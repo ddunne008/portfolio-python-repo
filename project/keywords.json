@@ -1,0 +1,73 @@
+{
+  "Agents": [
+    "Martha",
+    "Sarah",
+    "Dean",
+    "Alex",
+    "Joseph",
+    "Dylan",
+    "Carlos",
+    "Amelia",
+    "Eden"
+    ],
+  "stop_words": [
+    "exit",
+    "Exit",
+    "Quit",
+    "quit",
+    "Bye",
+    "bye",
+    "Stop",
+    "stop"
+  ],
+  "Course_queries": [
+    "what courses are available?",
+    "What courses are available",
+    "show me courses available"
+  ],
+  "Courses_available": [
+    "Marketing",
+    "IT in Business",
+    "Cyber Security",
+    "Sport Science",
+    "Sport Coaching",
+    "Basket Weaving",
+    "Project Management",
+    "Civil Engineering"
+  ],
+  "Campus_Cafe_Words": [
+    "campus cafe",
+    "Campus Cafe",
+    "Poppies",
+    "poppies",
+    "is there a cafe on campus",
+    "Is there a cafe on campus",
+    "is there a cafe on campus?"
+  ],
+  "EE_1": [
+    "Who made this",
+    "who made this",
+    "Who made this Program",
+    "Who made this program?",
+    "who is your creator",
+    "who is your creator?"
+  ],
+  "EE_2": [
+    "Tell me a fun fact",
+    "fun fact",
+    "Fun fact",
+    "give me a fun fact",
+    "tell me something i dont know"
+  ],
+  "EE_2_answers": [
+    "Did you know that an Octopus has 3 hearts?",
+    "If you close your eyes, you wont see this screen",
+    "Counting from 0 - 100, the only time your lips touch is when you say 100!",
+    "This is the first Python Project Daniel has even done!",
+    "If a vampire cant see itself in a mirror, how do they have such good hairstyles?"
+  ]
+}
+
+
+
+

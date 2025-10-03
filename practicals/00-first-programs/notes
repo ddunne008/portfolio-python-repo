@@ -1,0 +1,98 @@
+To update Github
+
+git add .
+git commit -m "Text"
+git push
+
+
+--------------------------------------------------
+
+6th Jan is last date to commit, add in exam read me
+
+
+--------------------------------------
+
+As a variable can store values, it will also be assigned a data type. This can affect the operations that have been applied to the variable within a program.
+
+e.g.
+
+total = 10 #interger
+
+total = 10.5 #float
+
+total = True or False #boolean
+
+total = "10.5" #string
+
+Data types cannot be added together unless they are the same
+----------------------------------------
+
+len is used to calculate the length of a string value
+
+-----------------------------------------
+
+Arguments are passed to functions when they are running
+
+-----------------------------------------
+
+Indexing can count the characters along a string
+
+-------------------------------------------
+
+if example == "" (This can mean if the user types nothing it is valid)
+
+-----------------------------------------
+defining a function using def
+
+calling a function uses the function name then when to end it, add the function name at the end e.g. my_function()
+
+e.g.
+
+def showMessage():
+    print("Error")
+    print("oops")
+
+showMessage()
+
+Formal parameters act similar to local variables. It can only be accessed within the specific code block.
+
+return statement is used to return the values that have been entered back, similar to a reset. This can be useful for multiple use of a program
+
+Default argument
+
+a default value is a variable which has already been assigned to a value e.g. name = alice, alice is a default value, if there was code which chnages the name to Joe, it will change the value
+--------------------------------------------------
+A loop such as while true can be used to keep a program running. (Keywords: while, continue, break)
+
+--------------------------------------------
+.py is the file extension for python files
+
+Using a command terminal, to open a python file, type: python filename.py
+
+---------------------------------------------
+Formal and Actual Parameters
+
+it is a placeholder for input values within a function definititon, allowing functions to work with different values each time they are called
+
+example: def greet(name):
+    print("Hello", name)
+
+name is a formal parameter
+
+actual parameter is the specific value passed to the function when it is called
+
+e.g. greet("Alice")
+
+----------------------------------------------
+
+isupper(), islower(),
+
+------------------------
+
+Phase Test
+
+50 questions
+Multiple choice
+week 1 - 6
+
+can bring notes
