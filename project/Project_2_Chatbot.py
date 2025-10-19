@@ -131,7 +131,7 @@ def main_screen(terminal): #This is the first screen the user will see
             return main_screen(terminal)
 
     if terminal in EE_1:
-        print(agent,">>> Yes, The creator of this program was made by Daniel Dunne, A student at LBU, Although im not sure why hes made a coding project for another rival university...")
+        print(agent,">>> Yes, The creator of this program was made by Daniel Dunne, A student at LBU, Although im not sure why hes made a coding system for another rival university...")
         return main_screen(terminal)
     if terminal in EE_2:
         answer = random.choice(EE_2_answers)
